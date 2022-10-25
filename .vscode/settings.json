@@ -1,0 +1,12 @@
+{
+    "discord.detailsDebugging": "Coding...",
+    "discord.detailsEditing": "Coding...",
+    "discord.detailsIdling": "Coding...",
+    "discord.largeImageIdling": "Coding...",
+    "discord.removeTimestamp": true,
+    "discord.removeRemoteRepository": true,
+    "discord.lowerDetailsNoWorkspaceFound": "Hello there stalker :)",
+    "discord.lowerDetailsDebugging": "Hello there stalker :)",
+    "discord.lowerDetailsEditing": "Hello there stalker :)",
+    "discord.lowerDetailsIdling": "Hello there stalker :)"
+}
