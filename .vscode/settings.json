@@ -8,5 +8,6 @@
     "discord.lowerDetailsNoWorkspaceFound": "Hello there stalker :)",
     "discord.lowerDetailsDebugging": "Hello there stalker :)",
     "discord.lowerDetailsEditing": "Hello there stalker :)",
-    "discord.lowerDetailsIdling": "Hello there stalker :)"
+    "discord.lowerDetailsIdling": "Hello there stalker :)",
+    "liveServer.settings.port": 5502
 }
